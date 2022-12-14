@@ -119,7 +119,7 @@ nav ul li {
 }
 .bio h2 {
   margin-bottom: var(--bottom-margin);
-  color:rgb(220, 183, 201)
+  color:rgba(220, 183, 201, 0.661)
 }
 .bio h3 {
   margin-bottom: var(--bottom-margin);
