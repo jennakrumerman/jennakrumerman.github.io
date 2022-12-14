@@ -101,6 +101,7 @@ nav ul li {
 }
 
 .hero img {
+  padding-top: 30px;
   height: 450px; 
   width: auto; 
 }
