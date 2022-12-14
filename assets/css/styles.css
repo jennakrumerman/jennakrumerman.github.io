@@ -119,9 +119,9 @@ nav ul li {
 }
 .bio h2 {
   margin-bottom: var(--bottom-margin);
-  color:rgba(220, 183, 201, 0.661)
+  color:rgb(220, 183, 201)
 }
-.bio h3 {
+.bio h4 {
   margin-bottom: var(--bottom-margin);
   color:rgba(220, 183, 201, 0.618)
 }
@@ -132,10 +132,3 @@ nav ul li {
   color:rgb(220, 183, 201)
 }
 
-.bio-text {
-  color:rgb(220, 183, 201)
-}
-
-.bio-title{
-  color:rgb(220, 183, 201)
-}
