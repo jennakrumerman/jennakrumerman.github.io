@@ -100,10 +100,8 @@ nav ul li {
 }
 
 .hero img {
-  height: auto; 
+  height: 300px; 
   width: auto; 
-  max-width: 500px; 
-  max-height: 500px;
 }
 
 .bio {
