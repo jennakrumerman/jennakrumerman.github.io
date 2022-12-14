@@ -114,13 +114,13 @@ nav ul li {
 
 .bio h1 {
   margin-bottom: var(--bottom-margin);
-  color: rgb(255, 255, 255)
+  color:rgb(220, 183, 201)"
 }
 
 .bio p {
   line-height: var(--line-height);
   padding: 0.3rem 0;
-  color: rgb(255, 255, 255)
+  color:rgb(220, 183, 201)"
 }
 
 .bio-text {
@@ -128,5 +128,5 @@ nav ul li {
 }
 
 .bio-title{
-  color:rgb(220, 183, 201)"
+  color:rgb(220, 183, 201)
 }
