@@ -133,6 +133,7 @@ nav ul li {
 }
 
 .more-about {
+  padding-top: 20px;
   background-color: var(--bg-color);
   padding: 1rem 6rem;
 }
