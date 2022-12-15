@@ -161,6 +161,11 @@ nav ul li {
   height: auto;
 }
 
+.project-title {
+  color:rgb(220, 183, 201);
+  margin-bottom: var(--bottom-margin);
+}
+
 .projects-container {
   display: flex;
   align-items: center;
