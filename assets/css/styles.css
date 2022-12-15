@@ -178,6 +178,7 @@ nav ul li {
 
 .project-details {
   margin-bottom: var(--bottom-margin);
+  color:rgba(220, 183, 201, 0.618)
 }
 
 .project-card {
