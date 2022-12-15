@@ -167,18 +167,14 @@ nav ul li {
   justify-content: center;
 }
 
-.project-container p {
+.projects-container p {
   padding: 0.4rem;
+  color:rgba(220, 183, 201, 0.618)
 }
 
-.projects h2{
+.projects-title{
   margin-bottom: var(--bottom-margin);
   color:rgb(220, 183, 201)
-}
-
-.projects p {
-  margin-bottom: var(--bottom-margin);
-  color:rgba(220, 183, 201, 0.618)
 }
 
 .project-card {
