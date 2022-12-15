@@ -95,9 +95,9 @@ nav ul li {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* gap: 2.5rem; */
+  gap: 2.5rem;
   /* max-width: 68.75rem; */
-  /* margin: auto; */
+  margin: auto;
 }
 
 .hero-img{
