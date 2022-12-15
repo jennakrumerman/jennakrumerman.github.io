@@ -157,8 +157,8 @@ nav ul li {
 }
 
 .project-pic {
-  width: 65%;
-  height: 60%;
+  max-width: 350px;
+  height: auto;
 }
 
 .projects-container {
@@ -173,6 +173,7 @@ nav ul li {
 
 .project-title {
   margin-bottom: var(--bottom-margin);
+  color:rgb(220, 183, 201)
 }
 
 .project-details {
