@@ -100,11 +100,25 @@ nav ul li {
   margin: auto;
 }
 
-.hero img {
+.hero-img{
   padding-top: 30px;
   height: 450px; 
   width: auto; 
 }
+
+.img-left {
+  padding-top: 30px;
+  width: 50px;
+  height: auto; 
+  float: left;
+}
+.img-right {
+  padding-top: 30px;
+  width: 50px;
+  height: auto; 
+  float: right;
+}
+
 
 .bio {
   width: 450px;
