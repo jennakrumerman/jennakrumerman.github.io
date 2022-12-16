@@ -152,7 +152,7 @@ nav ul li {
 }
 
 .more-about h2 {
-  padding-top: 40px;
+  padding-top: 15px;
   margin-bottom: var(--bottom-margin);
   text-align: center;
   color:rgb(220, 183, 201)
@@ -333,4 +333,9 @@ nav ul li {
     height: auto;
     padding-bottom: 3rem;
   }
+
+  .contact-form-container {
+    max-width: 23.75rem;
+  }
+
 }
