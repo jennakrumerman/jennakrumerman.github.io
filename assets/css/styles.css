@@ -270,4 +270,9 @@ nav ul li {
   .project-container {
     width: 20.875rem;
   }
+
+  .project-pic {
+    max-width: 300px;
+    height: auto;
+  }
 }
