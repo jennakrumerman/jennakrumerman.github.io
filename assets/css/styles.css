@@ -234,21 +234,20 @@ nav ul li {
   }
 
   .hero img {
-        height: 30rem;
-        width: auto;
-    }
+    padding-top:3rem;
+    height: 30rem;
+    width: auto;
+  }
 
-    .img-left {
-      width: 10rem;
-      height: auto; 
-    }
-    .img-right {
-      width: 10rem;
-      height: auto; 
-    }
+  .img-left {
+     display: none
+  }
+  .img-right {
+    display: none
+  }
 
   .bio {
-    margin-top: -7rem;
+    padding-top: 2rem;
     width: 20.5rem;
   }
   .more-about {
@@ -260,9 +259,6 @@ nav ul li {
     text-align: center;
   }
 
-  .more-about p {
-    text-align: justify;
-  }
   .projects-container {
     flex-direction: column;
   }
@@ -274,5 +270,6 @@ nav ul li {
   .project-pic {
     max-width: 300px;
     height: auto;
+    padding-bottom: 3rem;
   }
 }
