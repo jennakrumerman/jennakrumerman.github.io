@@ -200,7 +200,7 @@ nav ul li {
   margin: 10px;
 }
 
-.contact {
+/* .contact {
   margin-top: 2rem;
 }
 
@@ -259,7 +259,7 @@ nav ul li {
 .input-field::placeholder {
   padding: 0.5rem;
   color: var(--primary-color);
-}
+} */
 
 @media screen and (max-width: 720px) {
   /*changes reflects on screen with a width of 720px and below*/
@@ -334,8 +334,8 @@ nav ul li {
     padding-bottom: 3rem;
   }
 
-  .contact-form-container {
+  /* .contact-form-container {
     max-width: 23.75rem;
-  }
+  } */
 
 }
