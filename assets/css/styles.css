@@ -202,6 +202,33 @@ nav ul li {
 }
 
 .blog {
+  width: 600px;
+  padding: 0.625rem;
+  border-radius: 6px;
+  /* box-shadow: 0px 2px 15px 2px var(--primary-shadow); */
+}
+
+.blg h1 {
+  margin-bottom: var(--bottom-margin);
+  color:rgb(220, 183, 201)
+}
+.blog h2 {
+  margin-bottom: var(--bottom-margin);
+  color:rgb(220, 183, 201)
+}
+.blog h4 {
+  margin-bottom: var(--bottom-margin);
+  color:rgba(220, 183, 201, 0.618)
+}
+
+.blog p {
+  line-height: var(--line-height);
+  padding: 0.3rem 0;
+  color:rgb(220, 183, 201)
+}
+
+
+.bimg {
   padding-top: 20px;
   display: flex;
   align-items: center;
