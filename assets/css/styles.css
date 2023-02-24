@@ -201,6 +201,15 @@ nav ul li {
   margin: 10px;
 }
 
+.blog {
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  width: 500px;
+}
+
 /* .contact {
   margin-top: 2rem;
 }
