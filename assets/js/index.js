@@ -6,7 +6,7 @@ function App() {
     <div className="container">
       <h1>Jenna Krumerman</h1>
       <div className="about-me">
-        <p>about me paragraph goes here...</p>
+        <p>about me paragraph goes here....</p>
       </div>
       <div className="projects">
         <h2>Projects</h2>
